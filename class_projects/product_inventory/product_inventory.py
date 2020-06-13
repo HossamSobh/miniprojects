@@ -1,6 +1,9 @@
 '''
-Created on 12/07/2013
+A class is called an Abstract class if it contains one or more abstract methods.
+An abstract method is a method that is declared, but contains no implementation.
+Abstract classes may not be instantiated, and its abstract methods must be implemented by its subclasses
 
+Created on 12/07/2013
 @author: luke
 '''
 from abc import *
